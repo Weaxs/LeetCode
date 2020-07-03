@@ -1,4 +1,4 @@
-package java._155_minStack;
+package _155_minStack;
 
 import java.util.Deque;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package java._125_validPalindrome;
+package _125_validPalindrome;
 
 /**
  * 验证回文串

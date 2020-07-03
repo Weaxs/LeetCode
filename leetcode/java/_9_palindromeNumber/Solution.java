@@ -1,4 +1,4 @@
-package java._9_palindromeNumber;
+package _9_palindromeNumber;
 
 /**
  * 回文数

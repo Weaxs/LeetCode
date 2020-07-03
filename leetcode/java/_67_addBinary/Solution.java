@@ -1,4 +1,4 @@
-package java._67_addBinary;
+package _67_addBinary;
 
 import java.math.BigInteger;
 

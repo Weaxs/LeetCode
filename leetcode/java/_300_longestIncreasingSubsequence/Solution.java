@@ -1,4 +1,4 @@
-package java._300_longestIncreasingSubsequence;
+package _300_longestIncreasingSubsequence;
 
 
 import java.util.ArrayList;

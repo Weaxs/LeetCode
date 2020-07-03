@@ -1,4 +1,4 @@
-package java._39_combinationSum;
+package _39_combinationSum;
 
 import java.util.*;
 

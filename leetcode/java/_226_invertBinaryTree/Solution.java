@@ -1,6 +1,6 @@
-package java._226_invertBinaryTree;
+package _226_invertBinaryTree;
 
-import java.basic.TreeNode;
+import basic.TreeNode;
 
 import java.util.Deque;
 import java.util.LinkedList;

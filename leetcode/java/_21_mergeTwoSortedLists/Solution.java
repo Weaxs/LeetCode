@@ -1,7 +1,7 @@
-package java._21_mergeTwoSortedLists;
+package _21_mergeTwoSortedLists;
 
 
-import java.basic.ListNode;
+import basic.ListNode;
 
 /**
  * 合并两个有序链表

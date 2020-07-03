@@ -1,6 +1,6 @@
-package java._24_swapNodesInPairs;
+package _24_swapNodesInPairs;
 
-import java.basic.ListNode;
+import basic.ListNode;
 
 /**
  * 两两交换链表中的节点

@@ -1,4 +1,4 @@
-package java._119_pascalsTriangleII;
+package _119_pascalsTriangleII;
 
 import java.util.ArrayList;
 import java.util.Deque;

@@ -1,7 +1,7 @@
-package java._19_removeNthNodeFromEndOfList;
+package _19_removeNthNodeFromEndOfList;
 
 
-import java.basic.ListNode;
+import basic.ListNode;
 
 /**
  * 删除链表的倒数第N个节点

@@ -1,4 +1,4 @@
-package java._54_spiralMatrix;
+package _54_spiralMatrix;
 
 import java.util.ArrayList;
 import java.util.List;

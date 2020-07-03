@@ -1,4 +1,4 @@
-package java._35_searchInsertPosition;
+package _35_searchInsertPosition;
 
 /**
  * 搜索插入位置

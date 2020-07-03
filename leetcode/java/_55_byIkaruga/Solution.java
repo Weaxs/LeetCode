@@ -1,4 +1,4 @@
-package java._55_byIkaruga;
+package _55_byIkaruga;
 
 /**
  * 55. 跳跃游戏

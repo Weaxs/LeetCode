@@ -1,4 +1,4 @@
-package java._11_containerWithMostWater;
+package _11_containerWithMostWater;
 
 /**
  * 盛最多水的容器

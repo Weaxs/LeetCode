@@ -1,4 +1,4 @@
-package java._70_climbingStairs;
+package _70_climbingStairs;
 
 public class Solution {
 

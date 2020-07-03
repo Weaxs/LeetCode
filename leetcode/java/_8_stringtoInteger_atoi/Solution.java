@@ -1,4 +1,4 @@
-package java._8_stringtoInteger_atoi;
+package _8_stringtoInteger_atoi;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

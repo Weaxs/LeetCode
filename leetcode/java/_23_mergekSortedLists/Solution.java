@@ -1,6 +1,6 @@
-package java._23_mergekSortedLists;
+package _23_mergekSortedLists;
 
-import java.basic.ListNode;
+import basic.ListNode;
 
 /**
  * 合并K个排序链表

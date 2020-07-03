@@ -1,4 +1,4 @@
-package java._122_bestTimeToBuyAndSellStockII;
+package _122_bestTimeToBuyAndSellStockII;
 
 /**
  * 买卖股票的最佳时机 II

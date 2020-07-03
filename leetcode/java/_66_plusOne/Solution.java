@@ -1,4 +1,4 @@
-package java._66_plusOne;
+package _66_plusOne;
 
 
 /**

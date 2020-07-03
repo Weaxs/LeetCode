@@ -1,6 +1,6 @@
-package java._101_symmetricTree;
+package _101_symmetricTree;
 
-import java.basic.TreeNode;
+import basic.TreeNode;
 
 import java.util.Deque;
 import java.util.LinkedList;

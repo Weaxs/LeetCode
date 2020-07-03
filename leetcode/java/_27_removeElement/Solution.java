@@ -1,4 +1,4 @@
-package java._27_removeElement;
+package _27_removeElement;
 
 /**
  * 移除元素

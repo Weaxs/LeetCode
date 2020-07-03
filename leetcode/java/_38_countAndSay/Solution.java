@@ -1,4 +1,4 @@
-package java._38_countAndSay;
+package _38_countAndSay;
 
 import java.util.Deque;
 import java.util.LinkedList;

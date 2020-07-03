@@ -1,4 +1,4 @@
-package java._34_findFirstAndLastPositionOfElementInSortedArray;
+package _34_findFirstAndLastPositionOfElementInSortedArray;
 
 /**
  * 在排序数组中查找元素的第一个和最后一个位置

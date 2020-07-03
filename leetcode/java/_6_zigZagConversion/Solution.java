@@ -1,4 +1,4 @@
-package java._6_zigZagConversion;
+package _6_zigZagConversion;
 
 /**
  * Z 字形变换

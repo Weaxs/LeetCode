@@ -1,7 +1,7 @@
-package java._100_sameTree;
+package _100_sameTree;
 
 
-import java.basic.TreeNode;
+import basic.TreeNode;
 
 import java.util.Deque;
 import java.util.LinkedList;

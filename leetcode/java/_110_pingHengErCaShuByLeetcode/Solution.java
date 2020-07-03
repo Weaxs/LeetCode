@@ -1,6 +1,6 @@
-package java._110_pingHengErCaShuByLeetcode;
+package _110_pingHengErCaShuByLeetcode;
 
-import java.basic.TreeNode;
+import basic.TreeNode;
 
 /**
  * 平衡二叉树

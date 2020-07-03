@@ -1,6 +1,6 @@
-package java._160_intersectionOfTwoLinkedLists;
+package _160_intersectionOfTwoLinkedLists;
 
-import java.basic.ListNode;
+import basic.ListNode;
 
 /**
  * 相交链表

@@ -1,4 +1,4 @@
-package java._40_combinationSumII;
+package _40_combinationSumII;
 
 import java.util.*;
 

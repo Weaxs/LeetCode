@@ -1,4 +1,4 @@
-package java._171_excelSheetColumnNumber;
+package _171_excelSheetColumnNumber;
 
 public class Solution {
 

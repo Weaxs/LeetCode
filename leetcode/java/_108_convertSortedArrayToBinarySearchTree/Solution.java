@@ -1,6 +1,6 @@
-package java._108_convertSortedArrayToBinarySearchTree;
+package _108_convertSortedArrayToBinarySearchTree;
 
-import java.basic.TreeNode;
+import basic.TreeNode;
 
 import java.util.Random;
 

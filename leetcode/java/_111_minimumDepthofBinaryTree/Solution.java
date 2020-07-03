@@ -1,7 +1,7 @@
-package java._111_minimumDepthofBinaryTree;
+package _111_minimumDepthofBinaryTree;
 
-import java.basic.Pair;
-import java.basic.TreeNode;
+import basic.Pair;
+import basic.TreeNode;
 
 import java.util.Deque;
 import java.util.LinkedList;

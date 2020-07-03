@@ -1,4 +1,4 @@
-package java._172_factorialTrailingZeroes;
+package _172_factorialTrailingZeroes;
 
 /**
  * 阶乘后的零
@@ -40,6 +40,10 @@ public class Solution {
     /**
      *
      * 时间复杂度 O(log n)
+     * 先除以5，使得5,10,15,20,25,30...等数中的第一个5的个数可以算出来
+     * 然后除以25，使得25,50,75...等数中的第二个5的个数可以算出来
+     * 然后除以125，使得125,250,375...等数中的第三个5可以算出来
+     * 以此类推
      */
     public int trailingZeroes2(int n) {
         int zeroCount = 0;

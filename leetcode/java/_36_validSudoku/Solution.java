@@ -1,4 +1,4 @@
-package java._36_validSudoku;
+package _36_validSudoku;
 
 import java.util.ArrayList;
 import java.util.List;

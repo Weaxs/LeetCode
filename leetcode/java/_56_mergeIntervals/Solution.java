@@ -1,4 +1,4 @@
-package java._56_mergeIntervals;
+package _56_mergeIntervals;
 
 import java.util.*;
 

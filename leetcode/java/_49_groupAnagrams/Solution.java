@@ -1,4 +1,4 @@
-package java._49_groupAnagrams;
+package _49_groupAnagrams;
 
 import com.alibaba.fastjson.JSON;
 

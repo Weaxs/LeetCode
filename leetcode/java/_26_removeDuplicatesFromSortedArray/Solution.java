@@ -1,4 +1,4 @@
-package java._26_removeDuplicatesFromSortedArray;
+package _26_removeDuplicatesFromSortedArray;
 
 /**
  * 删除排序数组中的重复项

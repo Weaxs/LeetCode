@@ -1,4 +1,4 @@
-package java._33_searchinRotatedSortedArray;
+package _33_searchinRotatedSortedArray;
 
 /**
  * 搜索旋转排序数组

@@ -1,4 +1,4 @@
-package java._836_rectangleOverlap;
+package _836_rectangleOverlap;
 
 /**
  * 矩形重叠

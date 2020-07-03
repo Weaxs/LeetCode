@@ -1,7 +1,7 @@
-package java._112_pathSum;
+package _112_pathSum;
 
-import java.basic.Pair;
-import java.basic.TreeNode;
+import basic.Pair;
+import basic.TreeNode;
 
 import java.util.Deque;
 import java.util.LinkedList;

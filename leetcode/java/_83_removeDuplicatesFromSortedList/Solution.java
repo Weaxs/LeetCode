@@ -1,6 +1,6 @@
-package java._83_removeDuplicatesFromSortedList;
+package _83_removeDuplicatesFromSortedList;
 
-import java.basic.ListNode;
+import basic.ListNode;
 
 /**
  * 删除排序链表中的重复元素

@@ -1,6 +1,6 @@
-package java._25_reverseNodesInkGroup;
+package _25_reverseNodesInkGroup;
 
-import java.basic.ListNode;
+import basic.ListNode;
 
 /**
  * K 个一组翻转链表

@@ -1,4 +1,4 @@
-package java._121_bestTimeToBuyAndSellStock;
+package _121_bestTimeToBuyAndSellStock;
 
 
 /**

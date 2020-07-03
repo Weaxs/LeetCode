@@ -1,4 +1,4 @@
-package java._3_longestSubstringWithoutRepeatingCharacters;
+package _3_longestSubstringWithoutRepeatingCharacters;
 
 import java.util.HashMap;
 import java.util.HashSet;

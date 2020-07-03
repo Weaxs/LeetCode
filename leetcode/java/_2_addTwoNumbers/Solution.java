@@ -1,6 +1,6 @@
-package java._2_addTwoNumbers;
+package _2_addTwoNumbers;
 
-import java.basic.ListNode;
+import basic.ListNode;
 
 import java.util.ArrayList;
 import java.util.List;

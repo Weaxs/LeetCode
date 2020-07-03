@@ -1,4 +1,4 @@
-package java._41_firstMissingPositive;
+package _41_firstMissingPositive;
 
 import java.util.Arrays;
 

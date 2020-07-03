@@ -1,4 +1,4 @@
-package java._695_maxAreaOfIsland;
+package _695_maxAreaOfIsland;
 
 import java.util.Deque;
 import java.util.LinkedList;

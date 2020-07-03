@@ -1,4 +1,4 @@
-package java._46_permutations;
+package _46_permutations;
 
 import java.util.*;
 

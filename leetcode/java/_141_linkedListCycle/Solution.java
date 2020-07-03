@@ -1,6 +1,6 @@
-package java._141_linkedListCycle;
+package _141_linkedListCycle;
 
-import java.basic.ListNode;
+import basic.ListNode;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package java._14_longestCommonPrefix;
+package _14_longestCommonPrefix;
 
 /**
  * 最长公共前缀

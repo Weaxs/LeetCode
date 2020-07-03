@@ -1,4 +1,4 @@
-package java._47_permutationsII;
+package _47_permutationsII;
 
 import java.util.*;
 

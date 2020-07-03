@@ -1,4 +1,4 @@
-package java._5_longestPalindromicSubstring;
+package _5_longestPalindromicSubstring;
 
 
 /**

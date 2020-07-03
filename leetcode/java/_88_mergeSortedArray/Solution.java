@@ -1,4 +1,4 @@
-package java._88_mergeSortedArray;
+package _88_mergeSortedArray;
 
 import java.util.Arrays;
 

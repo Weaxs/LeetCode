@@ -1,6 +1,6 @@
-package java._107_binaryTreeLevelOrderTraversalII;
+package _107_binaryTreeLevelOrderTraversalII;
 
-import java.basic.TreeNode;
+import basic.TreeNode;
 
 import java.util.ArrayList;
 import java.util.Deque;

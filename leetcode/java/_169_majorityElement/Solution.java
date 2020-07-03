@@ -1,4 +1,4 @@
-package java._169_majorityElement;
+package _169_majorityElement;
 
 import java.util.Arrays;
 import java.util.HashMap;

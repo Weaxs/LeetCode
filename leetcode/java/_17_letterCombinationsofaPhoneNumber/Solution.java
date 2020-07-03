@@ -1,4 +1,4 @@
-package java._17_letterCombinationsofaPhoneNumber;
+package _17_letterCombinationsofaPhoneNumber;
 
 import java.util.ArrayList;
 import java.util.HashMap;

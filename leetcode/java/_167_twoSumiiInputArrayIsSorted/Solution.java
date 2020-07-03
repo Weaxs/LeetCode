@@ -1,4 +1,4 @@
-package java._167_twoSumiiInputArrayIsSorted;
+package _167_twoSumiiInputArrayIsSorted;
 
 /**
  *  两数之和 II - 输入有序数组

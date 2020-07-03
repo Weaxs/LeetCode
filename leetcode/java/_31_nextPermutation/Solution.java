@@ -1,4 +1,4 @@
-package java._31_nextPermutation;
+package _31_nextPermutation;
 
 /**
  * 下一个排列

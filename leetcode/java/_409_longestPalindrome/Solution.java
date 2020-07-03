@@ -1,4 +1,4 @@
-package java._409_longestPalindrome;
+package _409_longestPalindrome;
 
 /**
  * 最长回文串

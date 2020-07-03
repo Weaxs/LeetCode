@@ -1,4 +1,4 @@
-package java._1160_findWordsThatCanBeFormedByCharacters;
+package _1160_findWordsThatCanBeFormedByCharacters;
 
 import java.util.HashMap;
 import java.util.Map;

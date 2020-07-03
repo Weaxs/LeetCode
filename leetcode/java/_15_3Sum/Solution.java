@@ -1,4 +1,4 @@
-package java._15_3Sum;
+package _15_3Sum;
 
 import java.util.ArrayList;
 import java.util.Arrays;

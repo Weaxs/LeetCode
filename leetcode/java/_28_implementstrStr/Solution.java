@@ -1,4 +1,4 @@
-package java._28_implementstrStr;
+package _28_implementstrStr;
 
 /**
  * 实现 strStr() 函数。

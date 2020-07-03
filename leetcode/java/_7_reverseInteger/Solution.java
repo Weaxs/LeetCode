@@ -1,4 +1,4 @@
-package java._7_reverseInteger;
+package _7_reverseInteger;
 
 /**
  * 整数反转
