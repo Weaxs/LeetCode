@@ -48,10 +48,39 @@ public class Solution {
 
     /**
      * 使用额外的数组
+     * 时间复杂度：O(n)
+     * 空间复杂度：O(n)
      */
     public void rotate2(int[] nums, int k) {
-
+        int[] a = new int[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            a[(i + k) % nums.length] = nums[i];
+        }
+           System.arraycopy(a, 0, nums, 0, nums.length);
     }
+
+    /**
+     * 时间复杂度：O(n)
+     * 空间复杂度：O(1)
+     */
+    public void rotate3(int[] nums, int k) {
+        k = k % nums.length;
+        int count = 0;
+        for (int start = 0; count < nums.length; start++) {
+            int current = start;
+            int prev = nums[start];
+            do {
+                int next = (current + k) % nums.length;
+                int temp = nums[next];
+                nums[next] = prev;
+                prev = temp;
+                current = next;
+                count++;
+            } while (start != current);
+        }
+    }
+
+
 
 
 }
