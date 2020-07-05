@@ -80,6 +80,28 @@ public class Solution {
         }
     }
 
+    /**
+     * 适用反转 (推荐)
+     * 原始数组                  : 1 2 3 4 5 6 7
+     * 反转所有数字后             : 7 6 5 4 3 2 1
+     * 反转前 k 个数字后          : 5 6 7 4 3 2 1
+     * 反转后 n-k 个数字后        : 5 6 7 1 2 3 4 --> 结果
+     *
+     */
+    public void rotate4(int[] nums, int k) {
+        k %= nums.length;
+        reverse(nums, 0 , nums.length - 1);
+        reverse(nums, 0 , k - 1);
+        reverse(nums, k ,nums.length - 1);
+    }
+    private void reverse(int[] nums, int start, int end) {
+        for (;start < end;start++, end--) {
+            int temp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = temp;
+        }
+    }
+
 
 
 
