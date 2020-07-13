@@ -49,6 +49,5 @@ class Solution:
 
 
 
-
 solution = Solution()
 print(solution.myPow2(2, -4))
