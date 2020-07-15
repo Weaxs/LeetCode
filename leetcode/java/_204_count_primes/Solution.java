@@ -20,7 +20,7 @@ public class Solution {
     public int countPrimes(int n) {
         int count = 0;
         for (int i = 2; i < n ; i++) {
-            if (isPrime(i)) {
+            if (isPrime2(i)) {
                 count++;
             }
         }
@@ -39,9 +39,27 @@ public class Solution {
         return true;
     }
 
+    // 在依次对素数整除判断的同时，进行优化
+    // 只计算到 n >= 素数*素数 时，例如如果判断173是否是素数，无需把小于173的素数全部整除，只需要整除小于17的素数(17 * 17 =289)即可
+    // 因为即便它非素数，他也是17 * 比17小的素数。既然遍历到了17，还没能整除，就可以证明它是素数
+    private boolean isPrime2(int n) {
+        for (Integer prime:primes) {
+            if (prime * prime > n) {
+                break;
+            } else if (n % prime == 0 && n != 2) {
+                return false;
+            }
+        }
+        primes.add(n);
+        return true;
+    }
+
+    // 厄拉多塞筛法
+
+
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(solution.countPrimes(10));
+        System.out.println(solution.countPrimes(1500000));
     }
 
 
