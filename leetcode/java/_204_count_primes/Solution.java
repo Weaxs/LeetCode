@@ -1,7 +1,6 @@
 package _204_count_primes;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**
