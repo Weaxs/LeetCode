@@ -1,6 +1,7 @@
 package _204_count_primes;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -54,7 +55,39 @@ public class Solution {
         return true;
     }
 
-    // 厄拉多塞筛法
+    /**
+     * 厄拉多塞筛法
+     */
+    public int countPrimes3(int n) {
+        if (n <= 2) {
+            return 0;
+        }
+        // 创建 并 初始化 整个素数数组
+        boolean[] primes = new boolean[n];
+        primes[0] = false;
+        // 划掉0和1
+        primes[1] = false;
+        //设置上界
+        int sqrt = (int)Math.sqrt(n);
+        for (int i = 2; i <= sqrt; i++) {
+            if (!primes[i]) {
+                // 不是素数，可以跳过
+                continue;
+            }
+            // 划掉倍数
+            for (int multi = i << 1; multi < n ; multi += i){
+                primes[multi] = false;
+            }
+        }
+        int count = 0;
+        // 统计数组中素数的数量
+        for (boolean prime : primes) {
+            if (prime) {
+                count++;
+            }
+        }
+        return count;
+    }
 
 
     public static void main(String[] args) {
